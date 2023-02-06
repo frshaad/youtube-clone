@@ -20,6 +20,7 @@ export default Navbar;
 
 const NavContainer = styled.div`
   position: sticky;
+  height: 8vh;
   top: 0;
   display: flex;
   justify-content: space-between;
