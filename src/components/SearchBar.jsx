@@ -27,9 +27,13 @@ const SearchInput = styled.input`
   border: 0;
   border-radius: 20px 0 0 20px;
   outline: none;
+  background-color: #666;
+  color: #fff;
 `;
 const SearchBtn = styled.button`
   padding: 10px 12px;
   border: 0;
   border-radius: 0 20px 20px 0;
+  background-color: #333;
+  color: #fff;
 `;

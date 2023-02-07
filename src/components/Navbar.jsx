@@ -25,10 +25,14 @@ const NavContainer = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 2rem;
+  padding: 1rem 5rem;
+  background-color: #fff;
+  z-index: 10;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
 `;
 
 const LogoContainer = styled.div`
+  display: flex;
   color: red;
-  font-size: 40px;
+  font-size: 60px;
 `;
